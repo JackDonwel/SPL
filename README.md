@@ -1,7 +1,7 @@
 markdown
 Copy
 
-# <img src="docs/logo.svg" width="40"> SPL (Swahili Programming Language)
+# <img src="docs/1logo.svg" width="40"> SPL (Swahili Programming Language)
 
 **Lugha ya Programu Kwa Kiswahili | Version 1.0.0**  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -112,5 +112,5 @@ Namba ya Simu: +255 785 166 836
 Jukwaa: Jiunge na Jukwaa Letu
 
 SPL File Icon
-# <img src="docs/logo.svg" width="20">
+# <img src="docs/1logo.svg" width="20">
 Faili za .spl zinaonyesha hii ikoni inapounganishwa kikamilifu
