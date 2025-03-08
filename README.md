@@ -20,34 +20,40 @@ Chaguo la kwanza la programu kwa wanafunzi na wataalam wa Kiswahili!
 git clone https://github.com/JackDonwel/spl.git
 cd spl
 python -m venv venv
-
+```
+```bash
 # macOS/Linux
 source venv/bin/activate
-
+```
+```sh
 # Windows
 .\venv\Scripts\Activate.ps1
-
+```
+```python
 pip install -e .
-
+```
+```spl
 Fanya Mazoezi (Try SPL)
-bash
-Copy
 
+```
+```bash
 # Anza REPL
 python -m src.cli repl
-
+```
+```bash
 # Tekeleza faili
 python -m src.cli run examples/jambo_world.spl
-
+```
 🌟 Mfano wa Kodi (Example Code)
 
 examples/jambo_world.spl:
-python
-Copy
+```python
+
 
 salamu {
     andika("Jambo, Dunia!")  # "Hello, World!" kwa Kiswahili
 }
+```
 
 🔑 Vipengele Kuu (Key Features)
 Kipengele	Maelezo
@@ -87,14 +93,14 @@ We welcome your contributions!
 
     Fanya pull request na mabadiliko yako
 
-bash
+```bash
 Copy
 
 # Maandalizi ya Maendeleo
 git clone https://github.com/JackDonwel/spl.git
 python -m pip install -e .[dev]  # Sakinisha vifurushi vya maendeleo
 pytest tests/  # Fanya majaribio yote
-
+```
 📝 Leseni (License)
 
 Imesimamiwa chini ya MIT License.
@@ -106,4 +112,5 @@ Namba ya Simu: +255 785 166 836
 Jukwaa: Jiunge na Jukwaa Letu
 
 SPL File Icon
+# <img src="docs/logo.svg" width="20">
 Faili za .spl zinaonyesha hii ikoni inapounganishwa kikamilifu
