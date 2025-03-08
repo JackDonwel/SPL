@@ -106,11 +106,4 @@ Namba ya Simu: +255 785 166 836
 Jukwaa: Jiunge na Jukwaa Letu
 
 SPL File Icon
- <img src="docs/logo.svg" width="20">
 Faili za .spl zinaonyesha hii ikoni inapounganishwa kikamilifu
-Copy
-
-
-4. Customize roadmap items based on your development progress
-
-This README now provides a professional, bilingual presentation of your project while maintaining technical accuracy and community-friendly structure.
