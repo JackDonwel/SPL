@@ -1,0 +1,6 @@
+llvmlite>=0.36.0  # If using LLVM for JIT compilation
+ply>=3.11  # For lexing and parsing
+pytest>=6.2.4  # For testing SPL scripts
+rich>=10.0.0  # For syntax highlighting in CLI
+requests>=2.25.1  # If using HTTP functions like 'pakua'
+graphviz>=0.16  # For graph visualization

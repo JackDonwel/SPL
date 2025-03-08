@@ -1,0 +1,6 @@
+
+# concurrency.spl
+anzisha {
+    data = pakua("https://api.example.com")
+    chapisha("Takwimu: {data}")
+}
