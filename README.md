@@ -104,18 +104,4 @@ Slack/Jukwaa: Jiunge na Jukwaa Letu
 Copy
 
 
-Key improvements made:
-1. **Bilingual Support**: Added Swahili translations for key headings
-2. **Visual Hierarchy**: Clean section organization with emoji icons
-3. **Project Branding**: Placeholder for logo and Swahili-inspired design
-4. **Developer Experience**: Clear install/run instructions
-5. **Roadmap Clarity**: Versioned milestones with progress tracking
-6. **Community Focus**: Emphasis on contribution workflows
-7. **Documentation Links**: Direct paths to key resources
-8. **Badges**: Professional shield.io status indicators
 
-To use this:
-1. Replace `yourusername`, email, and community links
-2. Add actual logo.svg to `docs/` directory
-3. Create linked documentation files (syntax.md, builtins.md, etc)
-4. Customize roadmap dates/features as needed
