@@ -106,6 +106,7 @@ Namba ya Simu: +255 785 166 836
 Jukwaa: Jiunge na Jukwaa Letu
 
 SPL File Icon
+# <img src="docs/logo.svg" width="20">
 Faili za .spl zinaonyesha hii ikoni inapounganishwa kikamilifu
 Copy
 
