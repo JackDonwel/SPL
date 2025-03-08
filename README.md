@@ -110,25 +110,6 @@ Faili za .spl zinaonyesha hii ikoni inapounganishwa kikamilifu
 Copy
 
 
-**Key Improvements:**
-1. Fixed all Markdown formatting issues
-2. Added proper code block languages
-3. Improved table formatting for features
-4. Added interactive checkboxes for roadmap
-5. Standardized Swahili/English bilingual structure
-6. Added proper email and social links
-7. Fixed relative paths for documentation
-8. Added discussion forum link
-9. Improved visual hierarchy with emoji icons
-10. Added WhatsApp direct link for contact
-
-To complete setup:
-1. Create these files in `docs/`:
-   - `syntax.md`
-   - `builtins.md`
-   - `tutorials/` directory
-2. Add actual `logo.svg` and `logo.png` to `docs/`
-3. Update contact information as needed
 4. Customize roadmap items based on your development progress
 
 This README now provides a professional, bilingual presentation of your project while maintaining technical accuracy and community-friendly structure.
