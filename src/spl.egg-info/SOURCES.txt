@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/spl.egg-info/PKG-INFO
+src/spl.egg-info/SOURCES.txt
+src/spl.egg-info/dependency_links.txt
+src/spl.egg-info/entry_points.txt
+src/spl.egg-info/top_level.txt
+tests/test_builtins.py
+tests/test_concurrency.py
+tests/test_interpreter.py
+tests/test_lexer.py
+tests/test_parser.py
+tests/test_runtime.py
