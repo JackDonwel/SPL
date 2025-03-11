@@ -28,8 +28,8 @@ MODULES = [
     ("src.version", ["__version__"]),
     
     # Optional Components
-    ("src.optimizer", ["optimize_ast"]),  # If you have these
-    ("src.ffi", ["NativeBinding"])        # If you have these
+    ("src.optimizer", ["optimize_ast"]),  # NIKISAHAU {muhim} 
+    ("src.ffi", ["NativeBinding"])        # Kama nikiasahau kuweka hii file
 ]
 
 class TestImports(unittest.TestCase):
