@@ -26,8 +26,9 @@ MODULES = [
     ("src.cli", ["main"]),
     ("src.exceptions", ["SPLRuntimeError"]),
     ("src.version", ["__version__"]),
+
     
-    # Optional Components
+    # Optional ila muhim kwa mmda huu Components
     ("src.optimizer", ["optimize_ast"]),  # NIKISAHAU {muhim} 
     ("src.ffi", ["NativeBinding"])        # Kama nikiasahau kuweka hii file
 ]
