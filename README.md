@@ -1,6 +1,6 @@
 markdown
 Copy
-
+# NOTE THIS PROJECT IS NOT YET AT LARGE (NOT IN USE) HAIJAANZA KUTUMIKA (BADO INATENGENEZWA)
 # <img src="docs/logo.svg" width="40"> SPL (Swahili Programming Language)
 
 **Lugha ya Programu Kwa Kiswahili | Version 1.0.0**  
